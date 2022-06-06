@@ -1,0 +1,16 @@
+.pagination {
+  position: relative;
+  font-family: Raleway;
+  font-size: 25px;
+  padding-top: 20px;
+
+  span {
+    color: #9D9DFF;
+    cursor: pointer;
+  }
+
+}
+
+.active {
+  font-weight: bold;
+}
